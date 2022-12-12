@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset = "UTF-8"
+<title>final project</title>
+
+</head>
+
+<body>
+
+
+
+<h1>Hassan Sani Emmanuel</h1>
+
+
+
+<nav>
+
+<a href="https://www.link1.html">Link 1</a> |
+
+<a href="https://www.link2.forum">Link 2</a> |
+
+<a href="https://www.link3.html">Link 3</a> |
+
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>|
+
+
+
+</nav>
+
+
+
+
+
+
+
+<section>
+
+<h2>Favorite foods</h2>
+
+
+
+<ul>
+
+<li>Apple</li>
+
+<li>Pizza</li>
+
+<li>Crab</li>
+
+<li>Burger</li>
+
+</ul>
+
+
+
+</section>
+
+
+
+<section>
+
+
+
+<h2>Achievment</h2>
+
+<label for="file">Progress in this course (100%):</label>
+<progress id="file" value="100" max="100"> 100% </progress>
+<br>
+<label for="file">Progress in the specialization (20%):</label>
+<progress id="file" value="20" max="100"> 20% </progress>
+<br>
+<label for="file">Progress in life goals (45%):</label>
+<progress id="file" value="45" max="100"> 45% </progress>
+
+
+</section>
+
+
+
+<h2>More about me</h2>
+
+
+
+
+
+<details><summary>My childhood</summary>My childhood was quite interesting as i was a part of many organizations in my high school in Africa</details>
+
+<br>
+
+
+
+<footer>
+
+<a href="http://www.intro-webdesign.com/images/newlogo.png">
+
+<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WD4E">
+
+</a>
+
+This page was created by Hassan Sani Emmanuel &. Collen Van Lent. To learn more about web design,visit <a href="http://www.intro-webdesign.com/images/newlogo.png">Intro to web design</a>
+
+</footer>
+
+
+
